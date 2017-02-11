@@ -1,0 +1,13 @@
+# Windows files
+*.db
+
+# CodeBlocks files
+*.cbp
+*.depend
+*.layout
+
+# Executable files
+*.dll
+*.exe
+bin/
+obj/
